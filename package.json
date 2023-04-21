@@ -1,14 +1,11 @@
 {
-  "name": "vue3-boilerplate-library",
+  "name": "allan-ui",
   "version": "0.1.0",
-  "description": "A vue3 library project base. Intended to quickstart your library development without all the configuration hassle.",
-  "main": "./dist/vue3-boilerplate-library.umd.js",
-  "module": "./dist/vue3-boilerplate-library.es.js",
+  "description": "this is a test ui package",
+  "main": "./dist/allan-library.umd.js",
+  "module": "./dist/allan-library.es.js",
   "types": "./dist/types/library.d.ts",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/GreenbowAllan/vue-storybook-to-npm-template.git"
-  },
+  "repository": "git+https://github.com/GreenbowAllan/vue-storybook-to-npm-template.git",
   "keywords": [
     "vue",
     "vue3",
@@ -17,9 +14,7 @@
     "typescript",
     "vite"
   ],
-  "author": {
-    "name": "Jasper Saaltink"
-  },
+  "author": "Allan Asp Christensen",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/GreenbowAllan/vue-storybook-to-npm-template/issues"
@@ -30,8 +25,8 @@
   ],
   "exports": {
     ".": {
-      "import": "./dist/vue3-boilerplate-library.umd.js",
-      "require": "./dist/vue3-boilerplate-library.es.js"
+      "import": "./dist/allan-library.umd.js",
+      "require": "./dist/allan-library.es.js"
     }
   },
   "scripts": {
@@ -85,5 +80,6 @@
     "webpack": "^5.80.0"
   },
   "readme": "ERROR: No README data found!",
-  "_id": "vue3-boilerplate-library@0.1.0"
+  "_id": "allan-library@0.1.0",
+  "private": false
 }
