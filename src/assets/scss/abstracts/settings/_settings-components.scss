@@ -1,0 +1,67 @@
+/*
+----------------------------------------
+Component settings
+----------------------------------------
+*/
+
+// Button
+$button-border-width: 0px !default;
+$button-border-bottom-width: 0px !default;
+$button-disabled-opacity: 0.3 !default;
+$button-border-radius: 25px !default;
+$button-border-radius-small: 5px !default;
+$button-line-height: 405 !default;
+
+// Button: Primary
+$button-primary-default-border-color: 'primary-light' !default;
+$button-primary-hover-border-color: 'primary-lighter' !default;
+$button-primary-active-border-color: 'primary-lighter' !default;
+$button-primary-focus-border-color: $button-primary-default-border-color !default;
+$button-primary-disabled-border-color: 'primary-light' !default;
+$button-primary-default-background-color: 'primary' !default;
+$button-primary-hover-background-color: 'primary-light' !default;
+$button-primary-active-background-color: 'primary-lighter' !default;
+$button-primary-focus-background-color: 'primary' !default;
+$button-primary-default-color: 'white' !default;
+$button-primary-hover-color: $button-primary-default-color !default;
+$button-primary-active-color: $button-primary-default-color !default;
+$button-primary-focus-color: $button-primary-default-color !default;
+
+// Button: Secondary
+$button-secondary-default-border-color: 'secondary-light' !default;
+$button-secondary-hover-border-color: 'secondary-lighter' !default;
+$button-secondary-active-border-color: 'secondary-lighter' !default;
+$button-secondary-focus-border-color: $button-secondary-default-border-color !default;
+$button-secondary-disabled-border-color: 'secondary-light' !default;
+$button-secondary-default-background-color: 'secondary' !default;
+$button-secondary-hover-background-color: 'secondary-light' !default;
+$button-secondary-active-background-color: 'secondary-lighter' !default;
+$button-secondary-focus-background-color: 'secondary' !default;
+$button-secondary-default-color: 'white' !default;
+$button-secondary-hover-color: $button-secondary-default-color !default;
+$button-secondary-active-color: $button-secondary-default-color !default;
+$button-secondary-focus-color: $button-secondary-default-color !default;
+// Button: Tertiary
+$button-tertiary-default-border-color: 'gray-500' !default;
+$button-tertiary-hover-border-color: 'gray-600' !default;
+$button-tertiary-active-border-color: 'black' !default;
+$button-tertiary-focus-border-color: 'gray-500' !default;
+$button-tertiary-disabled-border-color: 'gray-300' !default;
+$button-tertiary-default-background-color: 'transparent' !default;
+$button-tertiary-hover-background-color: $button-tertiary-default-background-color !default;
+$button-tertiary-active-background-color: $button-tertiary-default-background-color !default;
+$button-tertiary-focus-background-color: $button-tertiary-default-background-color !default;
+$button-tertiary-default-color: 'black' !default;
+$button-tertiary-hover-color: $button-tertiary-default-color !default;
+$button-tertiary-active-color: $button-tertiary-default-color !default;
+$button-tertiary-focus-color: $button-tertiary-default-color !default;
+
+// Button: Quaternary
+$button-quaternary-default-background-color: 'transparent' !default;
+$button-quaternary-hover-background-color: 'gray-200' !default;
+$button-quaternary-active-background-color: 'gray-300' !default;
+$button-quaternary-focus-background-color: $button-quaternary-default-background-color !default;
+$button-quaternary-default-color: 'gray-600' !default;
+$button-quaternary-hover-color: $button-quaternary-default-color !default;
+$button-quaternary-active-color: $button-quaternary-default-color !default;
+$button-quaternary-focus-color: $button-quaternary-default-color !default;

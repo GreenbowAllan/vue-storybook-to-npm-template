@@ -1,0 +1,56 @@
+/*
+----------------------------------------
+Theme palette colors
+----------------------------------------
+*/
+
+// Primary colors
+$theme-color-primary-family: "primary" !default;
+$theme-color-primary-lightest: 'primary-200' !default;
+$theme-color-primary-lighter: 'primary-300' !default;
+$theme-color-primary-light: 'primary-400' !default;
+$theme-color-primary: 'primary-500' !default;
+$theme-color-primary-dark: 'primary-600' !default;
+$theme-color-primary-darker: 'primary-900' !default;
+$theme-color-primary-darkest: false !default;
+
+// Secondary colors
+$theme-color-secondary-family: "secondary" !default;
+$theme-color-secondary-lightest: 'secondary-200' !default;
+$theme-color-secondary-lighter: 'secondary-300' !default;
+$theme-color-secondary-light: 'secondary-400' !default;
+$theme-color-secondary: 'secondary-500' !default;
+$theme-color-secondary-dark: 'secondary-600' !default;
+$theme-color-secondary-darker: 'secondary-900' !default;
+$theme-color-secondary-darkest: false !default;
+
+// Text color
+$theme-color-ink: 'black' !default;
+$theme-color-ink-light: 'gray-500' !default;
+
+// Status colors
+$theme-color-success:               'green-700' !default;
+$theme-color-success-light:         'green-100' !default;
+$theme-color-warning:               'orange-700' !default;
+$theme-color-warning-light:         'orange-100' !default;
+$theme-color-error:                 'red-700' !default;
+$theme-color-error-light:           'red-100' !default;
+$theme-color-info:                  'blue-700' !default;
+$theme-color-info-light:            'blue-100' !default;
+
+// Special text colors
+$theme-color-text-positive:         'green-700' !default;
+$theme-color-text-negative:         'red-700' !default;
+
+// Link colors
+$theme-color-link:                  'blue-800' !default;
+$theme-color-link-hover:            'blue-900' !default;
+$theme-color-link-focus:            'blue-800' !default;
+$theme-color-link-visited:          'purple-700' !default;
+
+// Disabled colors
+$theme-color-disabled-light: 'gray-400' !default;
+$theme-color-disabled: "gray-600" !default;
+$theme-color-disabled-dark: false !default;
+
+$theme-color-shadow: "black-transparent-400" !default;

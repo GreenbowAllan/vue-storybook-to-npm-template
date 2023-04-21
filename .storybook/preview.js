@@ -1,4 +1,5 @@
-import '../src/styles/shared.css'
+import "../src/styles/shared.css";
+import "../src/assets/scss/style.scss";
 
 export const parameters = {
   actions: { argTypesRegex: "^on[A-Z].*" },
@@ -8,4 +9,4 @@ export const parameters = {
       date: /Date$/,
     },
   },
-}
+};

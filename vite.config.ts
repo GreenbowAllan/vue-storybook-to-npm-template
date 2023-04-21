@@ -1,4 +1,4 @@
-import { defineConfig } from "vite";
+import { value defineConfig } from "vite";
 import * as path from "path";
 import vue from "@vitejs/plugin-vue";
 
@@ -12,6 +12,7 @@ export default defineConfig({
         additionalData: `
           @import "./src/styles/variables.scss";
           @import "./src/styles/classes.scss";
+          @import "./src/assets/scss/style.scss";
         `,
       },
     },

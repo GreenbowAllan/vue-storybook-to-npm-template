@@ -1,0 +1,15 @@
+$secondary-color: #13133c;
+
+$system-color-secondary: (
+    "secondary": (
+        100: lighten($secondary-color,40%),
+        200: lighten($secondary-color,30%),
+        300: lighten($secondary-color,20%),
+        400: lighten($secondary-color, 10%),
+        500: $secondary-color,
+        600: darken($secondary-color, 10%),
+        700: darken($secondary-color, 20%),
+        800: darken($secondary-color, 30%),
+        900: darken($secondary-color, 40%),
+    )
+);
