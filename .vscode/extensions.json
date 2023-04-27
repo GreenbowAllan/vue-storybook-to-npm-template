@@ -1,8 +1,3 @@
 {
-  "recommendations": [
-    "vue.volar",
-    "kisstkondoros.vscode-codemetrics",
-    "formulahendry.auto-rename-tag",
-    "dbaeumer.vscode-eslint"
-  ]
+  "recommendations": ["Vue.volar", "Vue.vscode-typescript-vue-plugin"]
 }
