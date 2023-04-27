@@ -45,7 +45,6 @@ import { version } from "../../package.json";
           <NButton disabled> Disabled </NButton>
           <NButton n="purple6 dark:purple5 xl"> XL Purple </NButton>
         </div>
-        <ShowSource src="/playground/pages/index.vue#L44-L58" />
       </NCard>
 
       <NCard class="p4">
@@ -61,7 +60,6 @@ import { version } from "../../package.json";
             XL Disabled
           </NCheckbox>
         </div>
-        <ShowSource src="/playground/pages/index.vue#L68-L76" />
       </NCard>
 
       <NCard class="p4">
@@ -70,7 +68,6 @@ import { version } from "../../package.json";
           <NLink to="/" n="green"> NuxtLink </NLink>
           <NLink href="https://nuxt.com"> nuxt.com </NLink>
         </form>
-        <ShowSource src="/playground/pages/index.vue#L86-L91" />
       </NCard>
 
       <!-- <NCard class="p4">
@@ -98,7 +95,6 @@ import { version } from "../../package.json";
             Orange
           </NRadio>
         </form>
-        <ShowSource src="/playground/pages/index.vue#L101-L119" />
       </NCard> -->
 
       <NCard class="p4">
@@ -111,7 +107,6 @@ import { version } from "../../package.json";
             XL
           </NSwitch>
         </div>
-        <ShowSource src="/playground/pages/index.vue#L129-L140" />
       </NCard>
 
       <NCard class="p4">
@@ -123,7 +118,6 @@ import { version } from "../../package.json";
           <NTip n="yellow6 dark:yellow5" icon="carbon:warning"> Warning! </NTip>
           <NTip n="red6 dark:red5" icon="carbon:warning-alt"> Error! </NTip>
         </div>
-        <ShowSource src="/playground/pages/index.vue#L150-L158" />
       </NCard>
 
       <!-- <NCard class="p4">
@@ -145,7 +139,6 @@ import { version } from "../../package.json";
             </div>
           </NDropdown>
         </div>
-        <ShowSource src="/playground/pages/index.vue#L168-L180" />
       </NCard> -->
 
       <NCard class="p4">
@@ -178,7 +171,6 @@ import { version } from "../../package.json";
             <NButton class="self-start"> Submit </NButton>
           </div>
         </form>
-        <ShowSource src="/playground/pages/index.vue#L190-L205" />
       </NCard>
 
       <!-- <NCard class="p4">
@@ -204,7 +196,6 @@ import { version } from "../../package.json";
             </div>
           </NDialog>
         </div>
-        <ShowSource src="/playground/pages/index.vue#L215-L231" />
       </NCard> -->
 
       <NCard class="p4">
